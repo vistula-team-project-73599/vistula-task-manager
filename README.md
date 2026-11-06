@@ -7,5 +7,5 @@ Task Manager built with HTML, CSS, JavaScript and Supabase (PostgreSQL + REST AP
 - Repository: https://github.com/vistula-team-project-73599/vistula-task-manager
 
 ## Team collaboration
-- Pull Request I created in my partner's repository: LINK_TO_MY_PR
-- Pull Request my partner created in this repository: LINK_TO_PARTNER_PR
+- Pull Request I created in my partner's repository: https://github.com/Victoria73927/vistula-task-manager/pull/1
+- Pull Request my partner created in this repository: https://github.com/vistula-team-project-73599/vistula-task-manager/pull/1
